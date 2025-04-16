@@ -1,1 +1,1 @@
-# dq7-phone apk fix
+# dq7-Android fix
