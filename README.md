@@ -7,6 +7,9 @@
 >后面这个项目不再维护了。不出意外这就是【正式版】V1.0了。
 >按照SE的尿性，8、9代的次世代重置也应该快了。
 ## 部分修复截图
+<details>
+<summary>高清图片</summary>
+  
 >对话的就不发了，我懒得再重开一次截图。总之以前超出文本边框的文字内容以修复。各地图区域名称以改一致。
 ![螢幕擷取畫面 2025-09-25 161619](https://github.com/user-attachments/assets/0f6214e5-4dc2-4c19-84d9-7db426927167)
 ![螢幕擷取畫面 2025-09-25 162140](https://github.com/user-attachments/assets/f69d795c-8d95-44ef-b5ce-1042c173b2de)
@@ -14,6 +17,8 @@
 ![螢幕擷取畫面 2025-09-25 161936](https://github.com/user-attachments/assets/df702bc8-aaf4-40b2-b291-7a5f5e83de27)
 ![螢幕擷取畫面 2025-09-25 161749](https://github.com/user-attachments/assets/33f84d22-9315-422f-9674-4d9fb471841a)
 ![螢幕擷取畫面 2025-09-25 161656](https://github.com/user-attachments/assets/dbb1a7af-01e3-4876-8556-76a9270510a8)
+
+</details>
 
 # 修复感想
 
